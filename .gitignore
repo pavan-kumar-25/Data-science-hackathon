@@ -1,0 +1,5 @@
+
+# Large datasets and generated artifacts
+home-credit-default-risk.zip
+models/*.joblib
+outputs/*.csv
